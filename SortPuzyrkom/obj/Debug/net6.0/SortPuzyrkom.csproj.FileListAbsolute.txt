@@ -1,0 +1,15 @@
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\bin\Debug\net6.0\SortPuzyrkom.exe
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\bin\Debug\net6.0\SortPuzyrkom.deps.json
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\bin\Debug\net6.0\SortPuzyrkom.runtimeconfig.json
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\bin\Debug\net6.0\SortPuzyrkom.dll
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\bin\Debug\net6.0\SortPuzyrkom.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.csproj.AssemblyReference.cache
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.AssemblyInfoInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.AssemblyInfo.cs
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.dll
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\refint\SortPuzyrkom.dll
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\SortPuzyrkom.genruntimeconfig.cache
+C:\Users\Пользователь\SortingTypes\dotnet\SortPuzyrkom\obj\Debug\net6.0\ref\SortPuzyrkom.dll
