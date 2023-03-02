@@ -1,4 +1,6 @@
-﻿// Сортировка пузырьком
+﻿void TaskSortPuzyrkom()
+{
+// Сортировка пузырьком
 
 Console.WriteLine(" Введите кол-во элементов массива: ");
 int n = Convert.ToInt32(Console.ReadLine());
@@ -24,3 +26,6 @@ for (int i = 0; i < n; i++)
     }
     Console.WriteLine(i + "[" + string.Join(",", array) + "]");
 }
+}
+TaskSortPuzyrkom();
+
