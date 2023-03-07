@@ -1,0 +1,15 @@
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.csproj.AssemblyReference.cache
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.AssemblyInfoInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.AssemblyInfo.cs
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\bin\Debug\net6.0\ParallelMatrixMult.exe
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\bin\Debug\net6.0\ParallelMatrixMult.deps.json
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\bin\Debug\net6.0\ParallelMatrixMult.runtimeconfig.json
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\bin\Debug\net6.0\ParallelMatrixMult.dll
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\bin\Debug\net6.0\ParallelMatrixMult.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.dll
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\refint\ParallelMatrixMult.dll
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ParallelMatrixMult.genruntimeconfig.cache
+C:\Users\Пользователь\SortingTypes\dotnet\ParallelMatrixMult\obj\Debug\net6.0\ref\ParallelMatrixMult.dll
