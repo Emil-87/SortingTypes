@@ -1,0 +1,15 @@
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.csproj.AssemblyReference.cache
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfoInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.AssemblyInfo.cs
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\bin\Debug\net6.0\CountingSort.exe
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\bin\Debug\net6.0\CountingSort.deps.json
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\bin\Debug\net6.0\CountingSort.runtimeconfig.json
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\bin\Debug\net6.0\CountingSort.dll
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\bin\Debug\net6.0\CountingSort.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.dll
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\refint\CountingSort.dll
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\CountingSort.genruntimeconfig.cache
+C:\Users\Пользователь\SortingTypes\dotnet\CountingSort\obj\Debug\net6.0\ref\CountingSort.dll
