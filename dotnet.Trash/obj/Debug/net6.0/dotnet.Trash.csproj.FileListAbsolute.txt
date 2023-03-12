@@ -1,0 +1,15 @@
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\bin\Debug\net6.0\dotnet.Trash.exe
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\bin\Debug\net6.0\dotnet.Trash.deps.json
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\bin\Debug\net6.0\dotnet.Trash.runtimeconfig.json
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\bin\Debug\net6.0\dotnet.Trash.dll
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\bin\Debug\net6.0\dotnet.Trash.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.csproj.AssemblyReference.cache
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.AssemblyInfoInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.AssemblyInfo.cs
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.dll
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\refint\dotnet.Trash.dll
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.pdb
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\dotnet.Trash.genruntimeconfig.cache
+C:\Users\Пользователь\SortingTypes\dotnet\dotnet.Trash\obj\Debug\net6.0\ref\dotnet.Trash.dll
